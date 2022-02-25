@@ -7,7 +7,6 @@
 <body> 
     <article>
         <?= $post; ?>
-        
     </article>  
 </body>
 
